@@ -9,21 +9,16 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/mock v1.3.1
-	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/libvirt/libvirt-go v5.10.0+incompatible
 	github.com/libvirt/libvirt-go-xml v5.10.0+incompatible
 	github.com/openshift/machine-api-operator v0.2.1-0.20210212025836-cb508cd8777d
-	github.com/pkg/errors v0.9.1 // indirect
-	github.com/spf13/cobra v1.0.0 // indirect
-	golang.org/x/mod v0.3.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
-	gopkg.in/yaml.v2 v2.3.0 // indirect
-	k8s.io/api v0.19.4
+	k8s.io/api v0.19.6
 	k8s.io/apiextensions-apiserver v0.19.4 // indirect
-	k8s.io/apimachinery v0.19.4
-	k8s.io/client-go v0.19.4
+	k8s.io/apimachinery v0.19.6
+	k8s.io/client-go v0.19.6
 	k8s.io/code-generator v0.19.4
 	k8s.io/gengo v0.0.0-20200518160137-fb547a11e5e0 // indirect
 	k8s.io/klog v1.0.0
